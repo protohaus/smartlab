@@ -34,6 +34,8 @@ Schrauben und Gewinde
 Sonstiges
 - 4x Magnete 10x2
 - Rührfisch 35mm
+  
+![IMG20231213180223](https://github.com/protohaus/smartlab/assets/165298436/3a2318d9-e78e-440f-b0c7-e266087bd155)
 
 ### Empfohlene Druckeinstellungen
 0,2mm Layer height, 4 Perimeters, 5 Top and bottom layers, PLA or PETG
