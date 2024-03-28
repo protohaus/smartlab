@@ -1,8 +1,10 @@
 # DIY Magnetrührer
 Dieser Magnetrührer Bausatz kann z.B. in DIY-Umweltlaboren für Kinder und Jugendliche verwendet werden.
 Der Zusammenbau und die Nutzung erfordert keine Vorkenntnisse.
-Die wichtigsten Merkmale des Magnetrührers:
 
+<img width="538" alt="Rendering" src="https://github.com/protohaus/smartlab/assets/165298436/c1a69fbf-ecdb-418f-9c67-70646d2c4ffb">
+
+Die wichtigsten Merkmale des Magnetrührers:
 - Versorgung über 5V DC (mit USB-Netzteil oder mobil über Powerbank)
 - Stufenlose Geschwindigkeitseinstellung
 - Dauerbetrieb über mehrere Wochen gefahrlos möglich
